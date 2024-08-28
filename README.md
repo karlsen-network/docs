@@ -43,3 +43,4 @@ developers:
 
 1. [Getting Started](Getting%20Started/README.md)
    * [Rust Full Node Installation](Getting%20Started/Rust%20Full%20Node%20Installation.md)
+   * [Golang Full Node Installation](Getting%20Started/Golang%20Full%20Node%20Installation.md)
