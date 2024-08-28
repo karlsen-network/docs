@@ -247,9 +247,8 @@ chmod +x <file name>
 
 ### Opening Ports
 
-To make your node publicly accessible, forward port 42111 (or
-
- the configured port) to the machine running karlsend. Public nodes help the overall health of the network by allowing others to sync with your node.
+To make your node publicly accessible, forward port 42111 
+(or the configured port) to the machine running karlsend. Public nodes help the overall health of the network by allowing others to sync with your node.
 
 ### rusty-karlsen Hardware Requirements
 
